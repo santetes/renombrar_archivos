@@ -1,0 +1,14 @@
+{
+  "name": "cambio-nombres",
+  "version": "1.0.0",
+  "description": "Aplcación para cambio de nombres de archivos en directorio",
+  "main": "renombra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santetes",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}

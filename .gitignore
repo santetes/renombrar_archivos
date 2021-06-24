@@ -1,0 +1,6 @@
+
+
+/archivos_originales/*.*
+/archivos_renombrados/*.*
+
+node_modules
